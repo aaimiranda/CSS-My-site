@@ -30,4 +30,4 @@ $ cd CssMySite
 ```
 
 ## Screenshot
-![Alt text](/images/CssMySite-screenShot.png?raw=true "NewsletterSignup")
+![Alt text](/images/CssMySite-screenShot.png?raw=true)
